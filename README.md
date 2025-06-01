@@ -1,6 +1,6 @@
 # agentic_status_report
 # :brain: AI-Based Jira Project Status Reporter
-This project uses AI agents to automate the generation of a monthly **executive status report** from Jira issues. The output is a visually formatted PowerPoint slide with summary bullets, a pie chart of issue breakdown, and a color-coded RAG status.
+This project uses AI agents to automate the generation of a monthly **project status report** from Jira issues. The output is a visually formatted PowerPoint slide with summary bullets, a pie chart of issue breakdown.
 
 ## :rocket: Features
 - :mag: **Jira JQL Agent**: Determines the best JQL to query issues using a language model.
