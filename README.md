@@ -10,11 +10,11 @@ This project uses AI agents to automate the generation of a monthly **executive 
   - Pie chart for status category
     
 ## :bricks: Modular Agent Architecture
-| Agent         | Description                             | Model Used          |
-|---------------|-----------------------------------------|---------------------|
-| `jql_agent.py`       | Infers JQL query for given context     | `granite3.3b` via Ollama |
-| `summary_agent.py`   | Summarizes Jira issue data            | `granite3:3b` via Ollama` |
-| `ppt_agent.py`       | Creates the PowerPoint slide          | Uses Python-pptx     |
+| Agent         | Description                             | 
+|---------------|-----------------------------------------|
+| `jql_agent.py`       | Infers JQL query for given context| 
+| `summary_agent.py`   | Summarizes Jira issue data        |
+| `ppt_agent.py`       | Creates the PowerPoint slide      | 
 
 ## :open_file_folder: Project Structure
 Here's a complete README.md for your modular AI-powered project that pulls Jira data, summarizes it, and generates a PowerPoint with an executive summary and RAG status:
