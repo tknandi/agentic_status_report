@@ -29,7 +29,8 @@ This project uses AI agents to automate the generation of a monthly **executive 
   - Pie chart for status category
 
 ## :open_file_folder: Project Structure
-```bash. ├── main.py ├── jql_agent.py ├── summary_agent.py ├── ppt_agent.py ├── rag_agent.py ├── ollama_wrapper.py ├── summary.json ├── template.pptx ├── output.pptx ├── .env └── README.md
+```bash.
+├── main.py ├── jql_agent.py ├── summary_agent.py ├── ppt_agent.py ├── rag_agent.py ├── ollama_wrapper.py ├── summary.json ├── template.pptx ├── output.pptx ├── .env └── README.md
 ---
 ## :gear: Setup Instructions
 1. **Install Dependencies**
